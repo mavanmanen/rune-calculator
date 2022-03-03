@@ -6,7 +6,7 @@
           Elden Ring Rune Calculator
         </p>
         <p class="subtitle">
-          Calculate the value of a stack of runes and the totals.<br/>
+          Calculate the value of a stack of runes and the total.<br/>
           Clear a field by pressing the value or the total.
         </p>
       </div>
